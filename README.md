@@ -6,5 +6,6 @@
 
 ## yarn add -D webpack-dev-server
 
-
 ## yarn add dotenv
+
+## npx tailwindcss -o tailwind.css
