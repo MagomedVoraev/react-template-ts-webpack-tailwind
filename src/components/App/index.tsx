@@ -1,6 +1,5 @@
 import React, { FC } from 'react';
 import "./tailwind.css"
-// import './styles.css'
 
 export const App = (): JSX.Element => {
     return (
