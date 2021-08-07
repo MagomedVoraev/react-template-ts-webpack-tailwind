@@ -9,3 +9,7 @@
 ## yarn add dotenv
 
 ## npx tailwindcss -o tailwind.css
+
+## yarn add react-redux
+
+## yarn add @types/react-redux
